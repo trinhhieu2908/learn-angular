@@ -1,0 +1,7 @@
+.show .dropdown-menu{
+    display: block;
+}
+
+.nav-item.active {
+    background-color: antiquewhite;
+}
